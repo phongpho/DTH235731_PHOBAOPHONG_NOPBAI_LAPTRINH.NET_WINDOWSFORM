@@ -1,4 +1,4 @@
-# 🪟 Lập trình .NET - Nộp bài tập (Windows Forms)
+# 🖥️ Lập trình .NET - Nộp bài tập (Windows Forms)
 
 ## 👨‍🎓 Thông tin sinh viên
 - **Họ và tên:** Phó Bảo Phong  
