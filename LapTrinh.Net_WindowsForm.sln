@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi05_Bai_5_6", "Buoi05_Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi05_Bai_5_7", "Buoi05_Bai_5_7\Buoi05_Bai_5_7.csproj", "{8885724D-E773-4379-9078-FD0057EDEB7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi06_Bai_6_1", "Buoi06_Bai_6_1\Buoi06_Bai_6_1.csproj", "{AF02B0B2-C97E-498F-ACBF-3403BAA61726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi06_Bai_6_2", "Buoi06_Bai_6_2\Buoi06_Bai_6_2.csproj", "{9B245968-200E-4D1F-9F31-8E089E5B87AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{8885724D-E773-4379-9078-FD0057EDEB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8885724D-E773-4379-9078-FD0057EDEB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8885724D-E773-4379-9078-FD0057EDEB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF02B0B2-C97E-498F-ACBF-3403BAA61726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF02B0B2-C97E-498F-ACBF-3403BAA61726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF02B0B2-C97E-498F-ACBF-3403BAA61726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF02B0B2-C97E-498F-ACBF-3403BAA61726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B245968-200E-4D1F-9F31-8E089E5B87AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B245968-200E-4D1F-9F31-8E089E5B87AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B245968-200E-4D1F-9F31-8E089E5B87AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B245968-200E-4D1F-9F31-8E089E5B87AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
